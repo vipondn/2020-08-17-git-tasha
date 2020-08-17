@@ -4,8 +4,8 @@
 ## Local
 
 - `git init`: create git repository in current folder
-- `git config --global usern.name "Tasha Vipond"
-- `git config --global user.email "vipondn@vt.edu"
+- `git config --global usern.name' "Tasha Vipond"
+- `git config --global user.email` "vipondn@vt.edu"
 
 - `git status`: tells you what is going on in your respository
 - `git add <FILE>` : places <FILE> into the staging area
@@ -18,7 +18,7 @@
 	- `git log --oneline`: shows you your 1-line version of history
 - `HEAD`: tells you where you are looking at in history
 
-##Remotes
+## Remotes
 
 - `git diff`: shows difference between previous file and file you are adding
 	- `git diff --staged`: shows difference between file in staging area (that has been git added) and the previously committed file
@@ -29,5 +29,5 @@
 - `git pull origin master`: pulls the master branch from origin to local computer
 
 - You make chnages to different parts of a file and it will be combined automatically
-- Look for the `>>>` ~===` `<<<` and fix those lines to what you actually want
+- Look for the `>>>` `===` `<<<` and fix those lines to what you actually want
 	-delete other lines and create new section instead
