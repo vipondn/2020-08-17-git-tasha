@@ -29,3 +29,5 @@
 - `git pull origin master`: pulls the master branch from origin to local computer
 
 - You make chnages to different parts of a file and it will be combined automatically
+- Look for the `>>>` ~===` `<<<` and fix those lines to what you actually want
+	-delete other lines and create new section instead
